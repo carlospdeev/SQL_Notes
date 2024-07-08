@@ -21,4 +21,7 @@ We use 'AND' when two conditions are required
 >
 Select * from title.database where (lower(first.name)='first name') and (lower(last.name)='last name');
 
-* NOT: 
+* NOT Condition:
+We use 'NOT' condition to rule out options.
+>
+Select * from title.database where NOT (lower(first.name)='carlos');
