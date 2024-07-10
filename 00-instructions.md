@@ -8,4 +8,4 @@ We can use the argument ".open", it allow us open previous files and create news
 
 ### - Table creation
 
-We will use the argument "Create table" we must remember 
+We will use the argument "Create table " we must remember
