@@ -17,7 +17,13 @@ Create table staff();
 #### - how to define the data we will use
 Normally we use data such as
 * Name
-* Last Name
+* Last_Name
 * ID
-* Job
-* 
+* Position
+* Number
+* Mail
+
+These must be accompanied by the aproximate amount of data, we will use "varchar()" for text and "numeric()" for numbers.
+>
+Name varchar(15),
+Last_Name
